@@ -6,4 +6,6 @@ Requires "sudo permissions"
 ## Usage
 make it executable and launch
 
-sudo chmod +x log_cleaner.sh && ./log_cleaner.sh
+<code> 
+   sudo chmod +x log_cleaner.sh && ./log_cleaner.sh
+</code>
